@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589991768 source:c:\users\petruandreirazvan\desktop\labpootema3\main.cpp
+	<iostream>
+	<list>
+	<string>
+	<typeinfo>
+	<exception>
+
